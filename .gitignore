@@ -1,0 +1,11 @@
+*.xml
+*.iml
+*.pyc
+*.log
+*.yaml
+test*.py
+/.vscode
+/.idea
+/src/*
+/test
+/crawlDocument/*.json
