@@ -6,6 +6,5 @@
 test*.py
 /.vscode
 /.idea
-/src/*
 /test
 /crawlDocument/*.json
