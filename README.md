@@ -2,7 +2,8 @@
 
 ## INTRODUCTION
 The object of this project is to train a model to predict the topic of a given text. In the domain of automatic e-reporting and e-reputation detection, we expect that the documents we grabbed from Internet are topic concentrated. For exemple, we want to grab news articles about primary material cobalt industry. However, documents grabbed by key word "cobalt" may actually talk about *Cobalt Air*.
-By using Topic Modeling method to vectorize a natural language text, we could operate a semantic analysis and quantify text documents similarity. Thus, we could build a neural network to classifier a document's topic, so that we could filter documents before using them for following work.
+
+By using Topic Modeling method to vectorize a natural language text, we could operate a semantic analysis and quantify text documents similarity. Thus, we could build a neural network to classify a document's topic, so that we could filter documents before using them for following work.
 
 
 ## ARCHITECTURE
